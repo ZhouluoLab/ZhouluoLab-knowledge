@@ -1,3 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://YidiZhouluo.github.io/YidiZhouluo-knowledge/</loc>
+         <lastmod>2026-07-01</lastmod>
+    </url>
+    <url>
+         <loc>https://YidiZhouluo.github.io/YidiZhouluo-knowledge/computer-vision/</loc>
+         <lastmod>2026-07-01</lastmod>
+    </url>
+    <url>
+         <loc>https://YidiZhouluo.github.io/YidiZhouluo-knowledge/deep-learning/</loc>
+         <lastmod>2026-07-01</lastmod>
+    </url>
+    <url>
+         <loc>https://YidiZhouluo.github.io/YidiZhouluo-knowledge/medical-imaging/</loc>
+         <lastmod>2026-07-01</lastmod>
+    </url>
 </urlset>
