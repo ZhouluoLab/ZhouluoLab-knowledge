@@ -1,1 +1,15 @@
-site_name: My Docs
+site_name: YidiZhouluo的知识库
+site_url: https://YidiZhouluo.github.io/YidiZhouluo-knowledge/
+
+theme:
+  name: material
+  language: zh
+
+nav:
+  - 首页: index.md
+  - 深度学习:
+      - 总览: deep-learning/index.md
+  - 计算机视觉:
+      - 总览: computer-vision/index.md
+  - 医学图像:
+      - 总览: medical-imaging/index.md
