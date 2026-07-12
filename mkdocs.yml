@@ -1,9 +1,19 @@
-site_name: YidiZhouluo的知识库
+site_name: 周罗义迪的个人知识库
 site_url: https://YidiZhouluo.github.io/YidiZhouluo-knowledge/
 
 theme:
   name: material
   language: zh
+
+markdown_extensions:
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.arithmatex:
+      generic: true
+
+extra_javascript:
+  - javascripts/mathjax.js
+  - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
 
 nav:
   - 首页: index.md
@@ -13,3 +23,10 @@ nav:
       - 总览: computer-vision/index.md
   - 医学图像:
       - 总览: medical-imaging/index.md
+  - 实用工具:
+      - 总览: practical-tools/index.md
+      - Markdown语法: practical-tools/markdown.md
+  - 科研工具:
+      - 总览: research-tools/index.md
+      - Zotero: research-tools/zotero.md
+      - Obsidian: research-tools/obsidian.md
