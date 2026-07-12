@@ -2,18 +2,38 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://YidiZhouluo.github.io/YidiZhouluo-knowledge/</loc>
-         <lastmod>2026-07-01</lastmod>
+         <lastmod>2026-07-12</lastmod>
     </url>
     <url>
          <loc>https://YidiZhouluo.github.io/YidiZhouluo-knowledge/computer-vision/</loc>
-         <lastmod>2026-07-01</lastmod>
+         <lastmod>2026-07-12</lastmod>
     </url>
     <url>
          <loc>https://YidiZhouluo.github.io/YidiZhouluo-knowledge/deep-learning/</loc>
-         <lastmod>2026-07-01</lastmod>
+         <lastmod>2026-07-12</lastmod>
     </url>
     <url>
          <loc>https://YidiZhouluo.github.io/YidiZhouluo-knowledge/medical-imaging/</loc>
-         <lastmod>2026-07-01</lastmod>
+         <lastmod>2026-07-12</lastmod>
+    </url>
+    <url>
+         <loc>https://YidiZhouluo.github.io/YidiZhouluo-knowledge/practical-tools/</loc>
+         <lastmod>2026-07-12</lastmod>
+    </url>
+    <url>
+         <loc>https://YidiZhouluo.github.io/YidiZhouluo-knowledge/practical-tools/markdown/</loc>
+         <lastmod>2026-07-12</lastmod>
+    </url>
+    <url>
+         <loc>https://YidiZhouluo.github.io/YidiZhouluo-knowledge/research-tools/</loc>
+         <lastmod>2026-07-12</lastmod>
+    </url>
+    <url>
+         <loc>https://YidiZhouluo.github.io/YidiZhouluo-knowledge/research-tools/obsidian/</loc>
+         <lastmod>2026-07-12</lastmod>
+    </url>
+    <url>
+         <loc>https://YidiZhouluo.github.io/YidiZhouluo-knowledge/research-tools/zotero/</loc>
+         <lastmod>2026-07-12</lastmod>
     </url>
 </urlset>
