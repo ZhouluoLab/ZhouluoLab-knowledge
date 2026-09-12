@@ -25,6 +25,7 @@ nav:
       - 总览: medical-imaging/index.md
   - 实用工具:
       - 总览: practical-tools/index.md
+      - Git语法: practical-tools/git.md
       - Markdown语法: practical-tools/markdown.md
   - 科研工具:
       - 总览: research-tools/index.md
